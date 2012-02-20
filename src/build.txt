@@ -1,0 +1,5 @@
+Required packages
+
+libboost
+libopengl
+libglui
